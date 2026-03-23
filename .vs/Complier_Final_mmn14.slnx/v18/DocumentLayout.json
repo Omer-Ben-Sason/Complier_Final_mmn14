@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\buildFiles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|solutionrelative:buildFiles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\secondPass.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|solutionrelative:secondPass.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\x64\\Release\\file.as||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|solutionrelative:x64\\Release\\file.as||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\firstPass.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|solutionrelative:firstPass.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\linkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|solutionrelative:linkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\preassembler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{991AB082-9175-4BD4-AA8E-D54CBA29F2EA}|Complier_Final_mmn14.vcxproj|solutionrelative:preassembler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secondPass.c",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\secondPass.c",
+              "RelativeDocumentMoniker": "secondPass.c",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\secondPass.c",
+              "RelativeToolTip": "secondPass.c",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-23T19:41:42.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "file.as",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\x64\\Release\\file.as",
+              "RelativeDocumentMoniker": "x64\\Release\\file.as",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\x64\\Release\\file.as",
+              "RelativeToolTip": "x64\\Release\\file.as",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-23T19:19:04.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "preassembler.c",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\preassembler.c",
+              "RelativeDocumentMoniker": "preassembler.c",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\preassembler.c",
+              "RelativeToolTip": "preassembler.c",
+              "ViewState": "AgIAANAAAAAAAAAAAAAkwPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-23T19:15:38.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-23T19:15:35.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "linkedList.c",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\linkedList.c",
+              "RelativeDocumentMoniker": "linkedList.c",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\linkedList.c",
+              "RelativeToolTip": "linkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-23T19:15:32.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "firstPass.c",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\firstPass.c",
+              "RelativeDocumentMoniker": "firstPass.c",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\firstPass.c",
+              "RelativeToolTip": "firstPass.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-23T19:15:27.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "buildFiles.c",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\buildFiles.c",
+              "RelativeDocumentMoniker": "buildFiles.c",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Complier_Final_mmn14\\buildFiles.c",
+              "RelativeToolTip": "buildFiles.c",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-23T18:41:58.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
